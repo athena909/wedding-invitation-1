@@ -32,12 +32,12 @@ function App() {
       <div className="header-con">
           <h1 data-aos="fade-up">God's Ordained</h1>
           <h2 data-aos="fade-up" data-aos-duration="1000">Jeff & Bel</h2>
-          <p data-aos="flip-right" data-aos-duration="3000">We are happy to invite you in our wedding</p>
-          <img className="main-img" data-aos="flip-up" data-aos-duration="3000" src="https://i.pinimg.com/736x/f9/aa/2a/f9aa2a3ba7d2b4cbd535f594f9305280.jpg" alt=""/>
+          <p data-aos="fade-up" >We are happy to invite you in our wedding</p>
+          <img className="main-img" data-aos="fade-up" src="https://i.pinimg.com/736x/f9/aa/2a/f9aa2a3ba7d2b4cbd535f594f9305280.jpg" alt=""/>
       </div>
       </header>
       <div className="main-body">
-        <h1 data-aos="fade-up" data-aos-anchor-placement="top-center">samplesss</h1>
+        <h1 data-aos="fade-up" data-aos-anchor-placement="top-center">samplesss hvhgdvf</h1>
       </div>
     </div>
   );
